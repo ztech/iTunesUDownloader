@@ -1,0 +1,13 @@
+{
+  "name": "iTunesUDownloader",
+  "version": "0.0.1",
+  "description": "Simple tool to download iTunes U",
+  "license": "GPL-3.0",
+  "author": "Zombie",
+  "homepage": "http://www.tenglog.com",
+  "dependencies": {
+    "request": "latest",
+    "xml2js": "latest",
+    "aria2": "latest"
+  }
+}
